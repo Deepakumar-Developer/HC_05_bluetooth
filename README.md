@@ -8,7 +8,7 @@ Just wrapped up a fun IoT project demonstrating reliable, two-way communication 
 Hardware setup of HC-05, Arduino, and LED wiring.
 
 
-https://github.com/Deepakumar-Developer/HC_05_bluetooth/blob/main/assets/working_video.mp4
+https://www.linkedin.com/feed/update/urn:li:groupPost:10408911-7386959624857481216?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEZ7oaUBYzuL4DvxdCx6oNq_rTZ_xFo8cOg
 
 Demonstration of Flutter App Controlling LED via HC-05 Bluetooth Module.
 
